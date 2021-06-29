@@ -1,0 +1,8 @@
+site_name: "cloud-automation-cafe"
+site_description: "cloud automation services"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "cloud-automation-cafe"
+  description: "cloud automation services"
+  annotations:
+    github.com/project-slug: Sanskarsrivastava1997/automation-cloud
+    backstage.io/techdocs-ref: url:https://github.com/Sanskarsrivastava1997/automation-cloud
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "sanskar"
